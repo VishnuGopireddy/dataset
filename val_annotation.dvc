@@ -1,0 +1,5 @@
+outs:
+- md5: c0f7ab371c3721c93d5380a0b2f4ea97.dir
+  size: 2136
+  nfiles: 4
+  path: val_annotation

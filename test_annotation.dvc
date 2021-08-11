@@ -1,0 +1,5 @@
+outs:
+- md5: 090848d137f8b0b09b65abaebe500cdf.dir
+  size: 2138
+  nfiles: 4
+  path: test_annotation
