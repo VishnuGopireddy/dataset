@@ -1,0 +1,5 @@
+outs:
+- md5: 649f717a36ef953dc618e1a45c21d035.dir
+  size: 342724
+  nfiles: 4
+  path: test
